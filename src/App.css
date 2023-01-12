@@ -525,9 +525,7 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-	.navitems {
-		/* padding: 10px 4%; */
-	}
+
 
 	.burger {
 		display: block;

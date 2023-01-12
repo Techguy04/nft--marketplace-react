@@ -190,24 +190,24 @@ function App() {
 			<footer className="footer">
 				<div className="container grid grid--footer">
 					<div className="logo-col">
-						<a href="#" className="footer-logo">
+						<a href="/" className="footer-logo">
 							{" "}
 							WARCEL{" "}
 						</a>
 
 						<ul className="social-links">
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									<i className="fa-brands fa-square-facebook"></i>
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									<i className="fa-brands fa-twitter"></i>
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									<i className="fa-brands fa-square-instagram"></i>
 								</a>
 							</li>
@@ -239,17 +239,17 @@ function App() {
 						<p className="footer-heading">Products</p>
 						<ul className="footer-nav">
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Marketplace
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Creatorverse
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Learn
 								</a>
 							</li>
@@ -260,27 +260,27 @@ function App() {
 						<p className="footer-heading">Company</p>
 						<ul className="footer-nav">
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									About WARCEL
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									For Business
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									FAQ
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Careers
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Brand Kit
 								</a>
 							</li>
@@ -291,12 +291,12 @@ function App() {
 						<p className="footer-heading">Resources</p>
 						<ul className="footer-nav">
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Help center
 								</a>
 							</li>
 							<li>
-								<a className="footer-link" href="#">
+								<a className="footer-link" href="/">
 									Privacy & terms
 								</a>
 							</li>
