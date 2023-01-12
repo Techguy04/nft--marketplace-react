@@ -3,13 +3,13 @@
 import "./App.css";
 function App() {
 	return (
-		<div className="App">
-			<div className="navitems">
-				<div className="navlogo">
+		<div class="App">
+			<div class="navitems">
+				<div class="navlogo">
 					<h2>WARCEL</h2>
 				</div>
 				<div className="navtext">
-					<a href="/" className="active">
+					<a href="/" class="active">
 						Marketplace
 					</a>
 					<a href="/">Creators</a>
