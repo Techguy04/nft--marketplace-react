@@ -1,7 +1,6 @@
 /** @format */
 
 import "./App.css";
-
 function App() {
 	return (
 		<div classNameName="App">
@@ -42,7 +41,7 @@ function App() {
 						</div>
 					</div>
 					<div className="headerrght">
-						<img src="/images/degen.jpeg" alt="" />
+						<img src="/assests/images/degen.jpeg" alt="" />
 					</div>
 				</div>
 			</section>
@@ -50,7 +49,10 @@ function App() {
 				<h1 className="crdhead">All Worlds</h1>
 				<div className="carditems">
 					<div className="card">
-						<img src="images/bored ape.webp" alt="monkey wearing glasses" />
+						<img
+							src="/assests/images/7705310.jpg"
+							alt="monkey wearing glasses"
+						/>
 						<div className="carddesc">
 							<h3>Bored ape</h3>
 							<p>3,323 Listings</p>
@@ -63,7 +65,10 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/ape-wide.avif" alt="monkey wearing glasses" />
+						<img
+							src="/assests/images/ape-wide.avif"
+							alt="monkey wearing glasses"
+						/>
 						<div className="carddesc">
 							<h3>Azuki ape</h3>
 							<p>4,623 Listings</p>
@@ -76,7 +81,10 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/bayc2.webp" alt="monkey wearing glasses" />
+						<img
+							src="/assests/images/bayc2.webp"
+							alt="monkey wearing glasses"
+						/>
 						<div className="carddesc">
 							<h3>Crown ape</h3>
 							<p>3,683 Listings</p>
@@ -89,7 +97,10 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/7705310.jpg" alt="monkey wearing glasses" />
+						<img
+							src="/assests/images/7705310.jpg"
+							alt="monkey wearing glasses"
+						/>
 						<div className="carddesc">
 							<h3>Arturo ape</h3>
 							<p>2,323 Listings</p>
@@ -102,7 +113,10 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/7705317.jpg" alt="monkey wearing glasses" />
+						<img
+							src="/assests/images/7705317.jpg"
+							alt="monkey wearing glasses"
+						/>
 						<div className="carddesc">
 							<h3>Dreamy ape</h3>
 							<p>3,783 Listings</p>
@@ -115,7 +129,7 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/hdr.jpg" alt="monkey wearing glasses" />
+						<img src="/assests/images/hdr.jpg" alt="monkey wearing glasses" />
 						<div className="carddesc">
 							<h3>Rockin ape</h3>
 							<p>3,872 Listings</p>
@@ -128,7 +142,7 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/suit.jpg" alt="monkey wearing glasses" />
+						<img src="/assests/images/suit.jpg" alt="monkey wearing glasses" />
 						<div className="carddesc">
 							<h3>Reflected ape</h3>
 							<p>3,759 Listings</p>
@@ -141,7 +155,10 @@ function App() {
 						</div>
 					</div>
 					<div className="card">
-						<img src="images/anger_gorilla.jpg" alt="monkey wearing glasses" />
+						<img
+							src="/assests/images/anger_gorilla.jpg"
+							alt="monkey wearing glasses"
+						/>
 						<div className="carddesc">
 							<h3>Angry ape</h3>
 							<p>9,776 Listings</p>
@@ -170,8 +187,8 @@ function App() {
 				</div>
 			</section>
 
-			<footer classNameName="footer">
-				<div classNameName="container grid grid--footer">
+			<footer className="footer">
+				<div className="container grid grid--footer">
 					<div className="logo-col">
 						<a href="#" className="footer-logo">
 							{" "}
