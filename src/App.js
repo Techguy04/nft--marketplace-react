@@ -3,7 +3,7 @@
 import "./App.css";
 function App() {
 	return (
-		<div classNameName="App">
+		<div className="App">
 			<div className="navitems">
 				<div className="navlogo">
 					<h2>WARCEL</h2>
