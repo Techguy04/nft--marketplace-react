@@ -63,6 +63,7 @@ function App() {
 								<span>$</span> 4.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img
@@ -79,6 +80,7 @@ function App() {
 								<span>$</span> 30.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img
@@ -95,6 +97,7 @@ function App() {
 								<span>$</span> 10.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img
@@ -111,6 +114,7 @@ function App() {
 								<span>$</span> 9.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img
@@ -127,6 +131,7 @@ function App() {
 								<span>$</span> 3.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img src="/assests/images/hdr.jpg" alt="monkey wearing glasses" />
@@ -140,6 +145,7 @@ function App() {
 								<span>$</span> 4.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img src="/assests/images/suit.jpg" alt="monkey wearing glasses" />
@@ -153,6 +159,7 @@ function App() {
 								<span>$</span> 5.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 					<div className="card">
 						<img
@@ -169,6 +176,7 @@ function App() {
 								<span>$</span> 20.00
 							</p>
 						</div>
+						<button>Connect Your Wallet</button>
 					</div>
 				</div>
 			</section>
